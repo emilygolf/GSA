@@ -1,0 +1,10 @@
+﻿Location,Expected fO2,fO2,H2O,Fo,An,Expected Fo,Expected An,Expexted H20,Run Pressure,Expected Pressure,Notes
+Cerro Negro ,NNO,NNO -2,3,NaN,0.693,71-83,68-93,1-6wt%,400,200,
+Cerro Negro ,NNO,NNO -2,3,NaN,0.741,71-83,68-93,1-6wt%,200,200,
+Cerro Negro ,NNO,NNO ,4,NaN,0.703,71-83,68-93,1-6wt%,400,200,13b non PEC corrected
+Cerro Negro ,NNO,NNO unconstrained,4,NaN,0.735,71-83,68-93,1-6wt%,300,200,13b non PEC corrected
+Cerro Negro ,NNO,NNO unconstrained,4,0.78,0.764,71-83,68-93,1-6wt%,200,200,13b non PEC corrected
+Cerro Negro ,NNO,NNO,3.5,NaN,0.828,71-83,68-93,1-6wt%,200,200,
+Cerro Negro ,NNO,NNO -2,3,NaN,0.762,71-83,68-93,1-6wt%,100,200,
+Cerro Negro ,NNO,QFM -2,4,NaN,0.779,71-83,68-93,1-6wt%,600,200,
+Cerro Negro ,NNO,QFM  ,2,NaN,0.715,71-83,68-93,1-6wt%,600,200,
