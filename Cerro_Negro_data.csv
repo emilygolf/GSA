@@ -1,10 +1,26 @@
-﻿Location,Expected fO2,fO2,H2O,Fo,An,Expected Fo,Expected An,Expexted H20,Run Pressure,Expected Pressure,Notes
-Cerro Negro ,NNO,NNO -2,3,NaN,0.693,71-83,68-93,1-6wt%,400,200,
-Cerro Negro ,NNO,NNO -2,3,NaN,0.741,71-83,68-93,1-6wt%,200,200,
-Cerro Negro ,NNO,NNO ,4,NaN,0.703,71-83,68-93,1-6wt%,400,200,13b non PEC corrected
-Cerro Negro ,NNO,NNO unconstrained,4,NaN,0.735,71-83,68-93,1-6wt%,300,200,13b non PEC corrected
-Cerro Negro ,NNO,NNO unconstrained,4,0.78,0.764,71-83,68-93,1-6wt%,200,200,13b non PEC corrected
-Cerro Negro ,NNO,NNO,3.5,NaN,0.828,71-83,68-93,1-6wt%,200,200,
-Cerro Negro ,NNO,NNO -2,3,NaN,0.762,71-83,68-93,1-6wt%,100,200,
-Cerro Negro ,NNO,QFM -2,4,NaN,0.779,71-83,68-93,1-6wt%,600,200,
-Cerro Negro ,NNO,QFM  ,2,NaN,0.715,71-83,68-93,1-6wt%,600,200,
+﻿Sample Type,Location,Olv + Cpx,Cpx + Plg,Olv + Plg,Expected fO2,fO2,H2O,Fo cotectic,An cotectic,Fo,An,Host FO,MG# Glass,Expected Fo,Expected An,Expexted H20,Run Pressure,Expected Pressure,Notes,File Name,Folder Name,Run Type,Sample,Mg# MELT,MELT FeO wt%,MELT MnO wt%,MELT MgO wt%,Notes
+MG,Cerro Negro ,NaN,NaN,NaN,NNO,NNO -2,3,NaN,NaN,NaN,NaN,NaN,39.7,71-83,92.8-93.1,4wt% ,400,200-300,ET3 MG TP run,Plank_ET3_nno-2_400mpa_TP,Cerro Negro  ,TP,ET3 ,41.66635918,7.868643299,,3.153030936,"Note I have more runs of MG from cerro negro than reported here, but all failed to crystallize olivine at any number of redox states"
+MG,Cerro Negro ,NaN,NaN,NaN,NNO,NNO -2,3,NaN,NaN,NaN,0.741,NaN,39.7,71-83,92.8-93.1,4wt%,200,200-300,ET3 MG TP run,Plank_ET3_nno-2_200mpa_TP,Cerro Negro  ,TP,ET3 ,41.88233078,7.798481401,,3.152786757,Aka had to be NNO-2 or below! 
+MI,Cerro Negro ,NaN,NaN,NaN,NNO,NNO ,4,NaN,NaN,NaN,NaN,77.3,51.5,77.3,92.8-93.1,4wt%,400,200-300,13b non PEC corrected,Plank_13b_unconstrained(NNO+0)_400mpa_tp,Cerro Negro  ,TP,ET3_ARo301_13b,51.47913864,6.62626664,0.298032982,3.943969799,Fo and An are at expected pressure! 
+MI,Cerro Negro ,NaN,NaN,NaN,NNO,NNO unconstrained,4,NaN,NaN,NaN,NaN,77.3,51.5,77.3,92.8-93.1,4wt%,300,200-300,13b non PEC corrected,Plank_13b_unconstrained(NNO+0)_300mpa_tp,Cerro Negro  ,TP,ET3_ARo301_13b,51.47913864,6.62626664,0.298032982,3.943969799,
+MI,Cerro Negro ,NaN,NaN,NaN,NNO,NNO unconstrained,4,NaN,NaN,0.78,0.764,77.3,51.5,77.3,92.8-93.1,4wt%,200,200-300,13b non PEC corrected,Plank_13b_unconstrained(NNO+0)_200mpa_tp,Cerro Negro  ,TP,ET3_ARo301_13b,51.47913864,6.62626664,0.298032982,3.943969799,
+MG,Cerro Negro ,NaN,NaN,NaN,NNO,NNO -2,3,NaN,NaN,NaN,NaN,NaN,39.7,71-83,92.8-93.1,4wt%,100,200-300,ET3 MG TP run,Plank_ET3_nno-2_100mpa_TP,Cerro Negro  ,TP,ET3 ,42.01318371,7.756327837,,3.152640052,
+MG,Cerro Negro ,NaN,NaN,NaN,NNO,NNO -2,3,NaN,NaN,NaN,NaN,NaN,39.7,71-83,92.8-93.1,4wt%,600,200-300,ET3 MG TP run,Plank_ET3_nno-2_600mpa_TP,Cerro Negro  ,TP,ET3 ,41.47647187,7.93094404,,3.153247758,
+MG,Cerro Negro ,NaN,75,NaN,NNO,NNO ,3,NaN,NaN,NaN,0.727,NaN,39.7,71-83,92.8-93.1,4wt%,400-50,200-300,,ET3_terry_MG_NNO-MELTS_Auto,Cerro Negto MG Pcalcs,Pcalc,ET3 ,44.78019405,6.899817059,,3.138994643,
+MG,Cerro Negro ,NaN,120,NaN,NNO,NNO +2,3,NaN,NaN,NaN,0.725,NaN,39.7,71-83,92.8-93.1,4wt%,400-50,200-300,,ET3_terry_MG_2-MELTS_Auto,Cerro Negto MG Pcalcs,Pcalc,ET3 ,50.05641081,5.574581892,,3.13439813,
+MG,Cerro Negro ,NaN,170,NaN,NNO,NNO - 2,3,NaN,NaN,NaN,0.736,NaN,39.7,71-83,92.8-93.1,4wt%,400-50,200-300,,ET3_terry_MG_-2-MELTS_Auto,Cerro Negto MG Pcalcs,Pcalc,ET3 ,41.8924395,7.768592979,,3.142007949,
+MI,Cerro Negro ,300,100,NaN,NNO,NNO - 2,3.5,NaN,NaN,0.748,0.862,77.3,53.5,77.3,92.8-93.1,4wt%,400-50,200-300,,ET3_ARo301_13aNNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARo301_13a,50.22587313,8.307757975,0.197602588,4.702941583,
+MI,Cerro Negro ,NaN,75,NaN,NNO,NNO - 2,3.5,NaN,NaN,NaN,0.858,78.6,53.6,78.6,92.8-93.1,4wt%,400-50,200-300,,ET3_ARo301_3bNNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARo301_3b,50.79053515,6.486435825,0.157723782,3.755797562,
+MI,Cerro Negro ,NaN,175,NaN,NNO,NNO - 2,3.5,NaN,NaN,0.694,0.847,75.4,47.2,75.4,92.8-93.1,4wt%,400-50,200-300,,ET3_ARo301_2a_NNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARo301_2a,44.22573809,9.422590698,0.218516239,4.191538771,
+MI,Cerro Negro ,NaN,250,NaN,NNO,NNO - 2,3.5,NaN,NaN,NaN,0.781,76.6,49,76.6,92.8-93.1,4wt%,400-50,200-300,,ET3_ARo301_1a_NNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARo301_1a,45.69577678,7.272627272,0.122249485,3.433173028,
+MI,Cerro Negro ,375,NaN,NaN,NNO,NNO - 2,3.5,NaN,NaN,0.737,0.77,77.3,51.5,77.3,92.8-93.1,4wt%,400-50,200-300,,ET3_ARo301_13bNNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARo301_13b,48.19146912,7.589173509,0.299265065,3.960274361,
+MI,Cerro Negro ,NaN,NaN,75,NNO,NNO - 2,3.5,0.706,0.862,0.639,0.865,75.7,49.2,75.7,92.8-93.1,4wt%,400-50,200-300,,ET3_ARo302_1bNNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARo302_1b,46.85379563,8.558616387,0.163590331,4.232899817,
+MI,Cerro Negro ,NaN,325,NaN,NNO,NNO - 2,3.5,NaN,NaN,NaN,0.772,76.9,49.4,76.9,92.8-93.1,4wt%,400-50,200-300,,ET3_ARO302_4aNNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARO302_4a,46.17540311,7.088931719,0.121485362,3.41171391,
+MI,Cerro Negro ,NaN,200,NaN,NNO,NNO - 2,3.5,NaN,NaN,0.754,0.886,79,52.5,79,92.8-93.1,4wt%,400-50,200-300,,ET3_ARO302_5bNNO-2-MELTS_Auto,Cerro Negro MI Pcalcs NNO -2,Pcalc,ET3_ARO302_5b,50.34656111,10.20378166,0.143567172,5.804215651,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
