@@ -1,34 +1,34 @@
-﻿Location,Expected Pressure,P3,P2,Error,Expected fO2,fO2,H2O,Fo,An,Expected Fo,Expected An,Expexted H20
-Southwest Indian Ridge ,200,68,79,,QFM,QFM,10,0.869,0.888,0.879,NaN,Saturated (activity of water = 1)
-Southwest Indian Ridge ,200,,50,,QFM,QFM,10,0.855,0.845,0.863,0.74,Saturated (activity of water = 1)
-Southwest Indian Ridge ,200,,50,,QFM,QFM,10,0.832,0.783,0.802,0.84,Saturated (activity of water = 1)
-Southwest Indian Ridge ,200,,50,,QFM +2,QFM +2,10,0.903,0.845,0.894,0.751,Saturated (activity of water = 1)
-Southwest Indian Ridge ,200,,85,,QFM +2,QFM +2,10,0.899,0.835,0.879,0.683,Saturated (activity of water = 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.77,0.843,0.843,0.854,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.78,0.784,0.795,0.782,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.88,0.863,0.895,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.897,0.887,0.908,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.884,0.892,0.901,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.863,0.858,0.867,0.688,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.889,0.853,0.897,0.706,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.897,0.891,NaN,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.89,0.893,0.915,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.895,0.893,0.907,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.885,0.878,0.908,0.706,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.909,0.884,NaN,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM,QFM,10,0.912,0.884,NaN,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.874,0.853,0.853,0.886,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.878,0.881,0.891,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.905,0.85,0.911,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.866,0.838,0.859,0.724,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,NaN,0.789,0.798,0.646,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.918,0.823,NaN,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.918,0.8222,NaN,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.919,0.821,0.913,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.921,0.836,0.92,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.916,0.823,NaN,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.915,0.832,0.91,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,NaN,0.797,NaN,0.676,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,NaN,0.794,0.805,0.77,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,0.914,0.833,0.922,NaN,saturated (activity of water is 1)
-Southwest Indian Ridge ,200,NaN,NaN,,QFM +2,QFM +2,10,NaN,0.813,0.838,0.652,saturated (activity of water is 1)
+﻿Sample Type,Location,Expected Pressure,Olv + Cpx,Cpx + Plg,Olv + Plg,Error,Expected fO2,fO2,H2O,Fo cotectic,An cotectic,Fo,An,Expected Fo,Expected An,Expexted H20,Notes,File Name,Folder Name,Run Type,Sample Name,MG# Glass,MG# Melt,Notes,FeO wt%,MnO wt%,MgO wt%,MELT FeO wt%,MELT MnO wt%,MELT MgO wt%
+MG,Sadrin,200,68,68,79,,QFM,QFM,10,0.857,0.8843,0.865,0.897,0.879,NaN,Saturated (activity of water = 1),,R6a_148_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,r6a_148,68.27883477,72.00006776,MG# is taken at the expected cotectic,5.302860059,,6.40337651,4.40489237,,6.354379221
+MG,Sadrin,200,50,50,50,,QFM,QFM,10,0.839,0.842,0.851,0.858,0.863,0.74,Saturated (activity of water = 1),,R6a_153_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_153,63.42649886,67.34075925,,6.303071429,,6.132228571,5.186815464,,5.999770314
+MG,Sadrin,200,50,50,50,,QFM,QFM,10,0.815,0.797,0.827,0.783,0.802,0.84,Saturated (activity of water = 1),,R6a_154_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_154,57.64316197,61.83815464,,6.744428571,,5.1491,5.512623707,,5.011265417
+MG,Sadrin,200,50,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.901,0.851,0.894,0.751,Saturated (activity of water = 1),,R6a_188_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_188,68.60646737,76.2066347,,6.596181837,,8.086850079,4.293680004,,7.714867808
+MG,Sadrin,200,85,NaN,50,,QFM +2,QFM +2,10,0.891,0.843,0.896,0.835,0.879,0.683,Saturated (activity of water = 1),,R6a_189_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_189,66.24007029,74.2704872,,6.929396187,,7.627400429,4.488701078,,7.268876635
+MG,Sadrin,200,75,100,NaN,,QFM,QFM,10,NaN,NaN,0.771,0.856,0.843,0.854,saturated (activity of water is 1),,R6a_142_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_142,60.15162164,64.36204729,,5.327336364,,4.511372727,4.475146904,,4.534049973
+MG,Sadrin,200,NaN,,125,,QFM,QFM,10,0.795,0.799,NaN,0.785,0.795,0.782,saturated (activity of water is 1),,R6a_146_QFM_sat-MELTS_Auto.xlsm,Sadrin Pcalcs,Pcalc,R6a_146,54.30883596,58.7781208,,4.884985714,,3.257342857,4.094529466,,3.275320587
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.878,0.899,0.895,NaN,saturated (activity of water is 1),,R6a_152_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_152,70.80711805,74.25307604,,5.73543,,7.80419,4.83505435,,7.822622322
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.895,0.892,0.908,NaN,saturated (activity of water is 1),,R6a_156_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_156,74.75706869,77.73590733,,5.777811111,,9.599259259,4.887406815,,9.573198505
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.881,0.893,0.901,NaN,saturated (activity of water is 1),,R6a_157_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_157,72.28870986,75.61246082,,5.44748125,,7.972075,4.455348681,,7.749416336
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.86,0.863,0.867,0.688,saturated (activity of water is 1),,R6a_158_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_158,65.70795545,69.52986482,,6.46816,,6.95292,5.259707584,,6.733184382
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.886,0.858,0.897,0.706,saturated (activity of water is 1),,R6a_159_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_159,74.2144068,77.45687459,,4.57446,,7.38606,3.665156574,,7.064806601
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.894,0.897,NaN,NaN,saturated (activity of water is 1),,R6a_160_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_160,74.54057246,77.56475786,,5.94216087,,9.760013044,5.00216663,,9.701831729
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.897,0.895,0.915,NaN,saturated (activity of water is 1),,R6a_161_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_161,75.98650134,78.9080995,,5.42802,,9.635724,4.462738409,,9.366324581
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.892,0.894,0.907,NaN,saturated (activity of water is 1),,R6a_162_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_162,75.51387561,78.56390435,,4.97585,,8.608666667,4.03703663,,8.300456258
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.883,0.884,0.908,0.706,saturated (activity of water is 1),,R6a_163_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_163,72.47804812,75.77894008,,5.7502875,,8.4953,4.633311947,,8.132214525
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.907,0.891,NaN,NaN,saturated (activity of water is 1),,R6a_164_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_164,79.37029814,81.99949643,,4.674388462,,10.08908462,3.815766382,,9.751472744
+MG,Sadrin,200,NaN,50,NaN,,QFM,QFM,10,NaN,NaN,0.909,0.891,NaN,NaN,saturated (activity of water is 1),,R6a_165_QFM_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_165,80.57753776,83.08521646,,4.372326667,,10.17616667,3.535159864,,9.741554676
+MG,Sadrin,200,50,100,NaN,,QFM +2,QFM +2,10,NaN,NaN,NaN,0.854,0.853,0.886,saturated (activity of water is 1),,R6a_170_QFM+2_sat-MELTS_Auto.xlsm,Sadrin Pcalcs,Pcalc,R6a_170,57.54203193,66.40322383,Olivine only at Low pressure!,6.060388889,,4.607744444,4.1839625,,4.639180233
+MG,Sadrin,200,NaN,75,NaN,,QFM +2,QFM +2,10,NaN,NaN,NaN,0.888,0.891,NaN,saturated (activity of water is 1),,R6a_174_QFM+2_sat-MELTS_Auto.xlsm,Sadrin Pcalcs,Pcalc,R6a_174,63.91107454,72.21543065,Olivine only at Low pressure!,5.998571429,,5.959528571,4.07833842,,5.946637972
+MG,Sadrin,200,50,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.904,0.856,0.911,NaN,saturated (activity of water is 1),,R6a_178_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_178,69.52213033,76.95899644,,5.90356,,7.55465,4.004562787,,7.503692276
+MG,Sadrin,200,NaN,50,NaN,,QFM +2,QFM +2,10,NaN,NaN,NaN,0.838,0.859,0.724,saturated (activity of water is 1),,R6a_179_QFM+2_sat-MELTS_Auto.xlsm,Sadrin Pcalcs,Pcalc,R6a_179,59.3231116,67.95211,Olivine only at Low pressure!,6.998083333,,5.72555,4.720663638,,5.61524184
+MG,Sadrin,200,NaN,50,NaN,,QFM +2,QFM +2,10,NaN,NaN,NaN,NaN,0.798,0.646,saturated (activity of water is 1),,R6a_180_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_180,49.54174601,58.38716748,no olivine at all and only plag at low pressure,8.694333333,,4.788916667,5.946973061,,4.681100906
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.916,0.823,NaN,NaN,saturated (activity of water is 1),,R6a_182_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_182,73.1779282,79.7373236,,6.185030769,,9.466546154,4.251531389,,9.385818221
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.917,0.822,NaN,NaN,saturated (activity of water is 1),,R6a_183_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_183,73.42851578,79.97558158,,6.313633333,,9.787915152,4.231254524,,9.480441204
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.918,0.821,0.913,NaN,saturated (activity of water is 1),,R6a_184_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_184,74.31660003,80.73659802,,6.099212121,,9.900769697,4.027000282,,9.468496472
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.919,0.836,0.92,NaN,saturated (activity of water is 1),,R6a_185_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_185,75.40407109,81.68378409,,5.63075,,9.68411,3.687990764,,9.2268152
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.915,0.823,NaN,NaN,saturated (activity of water is 1),,R6a_186_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_186,72.72390346,79.37841443,,6.297072727,,9.4188,4.366681254,,9.429610629
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.913,0.832,0.91,NaN,saturated (activity of water is 1),,R6a_187_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_187,72.52519839,79.2663975,,6.192846667,,9.170786667,4.156587005,,8.914831347
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,NaN,NaN,NaN,0.676,saturated (activity of water is 1),,R6a_190_QFM+2_sat-MELTS_Auto.xlsm,Sadrin Pcalcs,Pcalc,R6a_190,45.75609886,54.74452111,Plag really late,4.444711111,,2.103311111,3.154367208,,2.140640061
+MG,Sadrin,200,NaN,125,NaN,,QFM +2,QFM +2,10,NaN,NaN,NaN,NaN,0.805,0.77,saturated (activity of water is 1),,R6a_191_QFM+2_sat-MELTS_Auto.xlsm,Sadrin Pcalcs,Pcalc,R6a_191,50.9924208,60.08443018,Plag really late,5.507414286,,3.214785714,3.837771543,,3.240862719
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,0.913,0.833,0.922,NaN,saturated (activity of water is 1),,R6a_193_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_193,72.47559132,79.1749801,,6.145380952,,9.077880952,4.218348765,,8.997190682
+MG,Sadrin,200,NaN,NaN,NaN,,QFM +2,QFM +2,10,NaN,NaN,NaN,NaN,0.838,0.652,saturated (activity of water is 1),,R6a_195_QFM+2_sat-MELTS_Auto,Sadrin Pcalcs,Pcalc,R6a_195,57.64332416,66.35942454,Plag really late,8.17715,,6.242966667,5.451713056,,6.033010589
