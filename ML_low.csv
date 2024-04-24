@@ -1,0 +1,54 @@
+﻿Sample Type,Location,Temperature,Expected Pressure,Expected fO2,fO2,H2O,Fo cotectic,An cotectic,Fo 1050,An 1050,Expected Fo,Expected An,Expexted H20,Run Type,Sample Name,Folder,File Name,Notes,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.827002348,0.768807552,0.723548908,0.621921226,0.847448442,0.921928176,6,PT Run,79_35G_6,Medicine lake low water,79_35G_6,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.810486918,0.735887827,0.675299968,0.620128794,0.847448442,0.921928176,6,PT Run,79_35G_4,Medicine lake low water,79_35G_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.82282985,0.747156577,0.693247778,0.599167503,0.848984608,0.913617461,6,PT Run,79_35G_11,Medicine lake low water,79_35G_11,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.629468697,0.492561107,0.596320087,0.483952929,0.794000565,0.883004834,6,PT Run,79_35G_12,Medicine lake low water,79_35G_12,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.595239561,0.509161237,NaN,NaN,0.775821282,0.857748007,6,PT Run,82_62_3,Medicine lake low water,82_62_3,3 phase cotectics!!,olivine begins to form at 1045
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.553618942,0.479946912,NaN,NaN,0.768645853,0.848611327,6,PT Run,82_62_4,Medicine lake low water,82_62_4,3 phase cotectics!!,olivine begins to form at 1005
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.325611622,0.494296505,NaN,NaN,0.78179312,0.86540374,6,PT Run,82_66_3,Medicine lake low water,82_66_3,3 phase cotectics!!,olivine begins to form at 820
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,NaN,NaN,NaN,NaN,0.782626084,0.894963459,6,PT Run,82_66_5,Medicine lake low water,82_66_5,3 phase cotectics!!,No olivine!
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.2,0.26093771,0.441540682,NaN,NaN,0.768322473,0.822230381,6,PT Run,82_88_7,Medicine lake low water,82_88_7,3 phase cotectics!!,olivine begins to form at 842
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,0.827019456,0.796672415,0.734049573,0.675227059,0.847448442,0.921928176,6,PT Run,79_35G_6,Medicine lake low water,79_35G_6,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,0.815321587,0.771559666,0.704542006,0.663625528,0.847448442,0.921928176,6,PT Run,79_35G_4,Medicine lake low water,79_35G_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,0.821383189,0.773458281,0.71182411,0.645734642,0.848984608,0.913617461,6,PT Run,79_35G_11,Medicine lake low water,79_35G_11,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,0.801544,0.66888947,NaN,NaN,0.794000565,0.883004834,6,PT Run,79_35G_12,Medicine lake low water,79_35G_12,3 phase cotectics!!,Olivine not saturated anywhere above or below 1050 exept for a short period ~ high 1100's
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,0.791767373,0.689407885,NaN,NaN,0.775821282,0.857748007,6,PT Run,82_62_3,Medicine lake low water,82_62_3,3 phase cotectics!!,Olivine not saturated anywhere above or below 1050 exept for a short period ~ high 1100's
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,NaN,NaN,NaN,NaN,0.768645853,0.848611327,6,PT Run,82_62_4,Medicine lake low water,82_62_4,3 phase cotectics!!,No olivine! (except at one temerature and no CPX at that point)
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,NaN,NaN,NaN,NaN,0.78179312,0.86540374,6,PT Run,82_66_3,Medicine lake low water,82_66_3,3 phase cotectics!!,No olivine!
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,NaN,NaN,NaN,NaN,0.782626084,0.894963459,6,PT Run,82_66_5,Medicine lake low water,82_66_5,3 phase cotectics!!,No olivine!
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.5,NaN,NaN,NaN,NaN,0.768322473,0.822230381,6,PT Run,82_88_7,Medicine lake low water,82_88_7,3 phase cotectics!!,No olivine!
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,0.823691635,0.815571552,0.747006737,0.715806726,0.847448442,0.921928176,6,PT Run,79_35G_6,Medicine lake low water,79_35G_6,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,0.815197119,0.795028969,0.725794728,0.699268718,0.847448442,0.921928176,6,PT Run,79_35G_4,Medicine lake low water,79_35G_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,0.820230061,0.795134364,0.730146715,0.684659375,0.848984608,0.913617461,6,PT Run,79_35G_11,Medicine lake low water,79_35G_11,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,0.787613954,0.679070506,NaN,NaN,0.794000565,0.883004834,6,PT Run,79_35G_12,Medicine lake low water,79_35G_12,3 phase cotectics!!,No olivine at 1050 or near it
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,0.78976475,0.713728,NaN,NaN,0.775821282,0.857748007,6,PT Run,82_62_3,Medicine lake low water,82_62_3,3 phase cotectics!!,No olivine at 1050 or near it
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,0.777827019,0.687556242,NaN,NaN,0.768645853,0.848611327,6,PT Run,82_62_4,Medicine lake low water,82_62_4,3 phase cotectics!!,No olivine at 1050 or near it
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,0.77939747,0.744755908,NaN,NaN,0.78179312,0.86540374,6,PT Run,82_66_3,Medicine lake low water,82_66_3,3 phase cotectics!!,No olivine at 1050 or near it
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,NaN,NaN,NaN,NaN,0.782626084,0.894963459,6,PT Run,82_66_5,Medicine lake low water,82_66_5,3 phase cotectics!!,No olivine! (except at one temerature and no CPX at that point)
+MG,Medicine Lake ,1050,200,NNO ,NNO,0.8,NaN,NaN,NaN,NaN,0.768322473,0.822230381,6,PT Run,82_88_7,Medicine lake low water,82_88_7,3 phase cotectics!!,No olivine!
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.823287879,0.825599556,0.753533379,0.740093667,0.847448442,0.921928176,6,PT Run,79_35G_6,Medicine lake low water,79_35G_6,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.814791898,0.808037105,0.734287817,0.722791109,0.847448442,0.921928176,6,PT Run,79_35G_4,Medicine lake low water,79_35G_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.819373115,0.807433782,0.738175003,0.709020062,0.848984608,0.913617461,6,PT Run,79_35G_11,Medicine lake low water,79_35G_11,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.785623401,0.693407847,NaN,NaN,0.794000565,0.883004834,6,PT Run,79_35G_12,Medicine lake low water,79_35G_12,3 phase cotectics!!,No olivine at 1050 or near it
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.787189278,0.726926666,NaN,NaN,0.775821282,0.857748007,6,PT Run,82_62_3,Medicine lake low water,82_62_3,3 phase cotectics!!,No olivine at 1050 or near it
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.775297654,0.701680545,NaN,NaN,0.768645853,0.848611327,6,PT Run,82_62_4,Medicine lake low water,82_62_4,3 phase cotectics!!,No olivine at 1050 or near it
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.780847252,0.725536993,,,0.78179312,0.86540374,6,PT Run,82_66_3,Medicine lake low water,82_66_3,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,0.787916908,0.731486313,,,0.782626084,0.894963459,6,PT Run,82_66_5,Medicine lake low water,82_66_5,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1,NaN,NaN,NaN,NaN,0.768322473,0.822230381,6,PT Run,82_88_7,Medicine lake low water,82_88_7,3 phase cotectics!!,No olivine!
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,0.817201061,0.839852832,,,0.847448442,0.921928176,6,PT Run,79_35G_6,Medicine lake low water,79_35G_6,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,0.814267388,0.8249378,,,0.847448442,0.921928176,6,PT Run,79_35G_4,Medicine lake low water,79_35G_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,0.818353027,0.823669587,,,0.848984608,0.913617461,6,PT Run,79_35G_11,Medicine lake low water,79_35G_11,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,0.774937461,0.705333348,,,0.794000565,0.883004834,6,PT Run,79_35G_12,Medicine lake low water,79_35G_12,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,0.788154755,0.749184758,,,0.775821282,0.857748007,6,PT Run,82_62_3,Medicine lake low water,82_62_3,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,0.776449364,0.725301049,,,0.768645853,0.848611327,6,PT Run,82_62_4,Medicine lake low water,82_62_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,0.786493723,0.750477355,,,0.782626084,0.894963459,6,PT Run,82_66_5,Medicine lake low water,82_66_5,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.3,NaN,NaN,NaN,NaN,0.768322473,0.822230381,6,PT Run,82_88_7,Medicine lake low water,82_88_7,3 phase cotectics!!,No olivine!
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.82348131,0.852916542,,,0.847448442,0.921928176,6,PT Run,79_35G_6,Medicine lake low water,79_35G_6,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.812174792,0.82994685,,,0.847448442,0.921928176,6,PT Run,79_35G_4,Medicine lake low water,79_35G_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.816035995,0.832052915,,,0.848984608,0.913617461,6,PT Run,79_35G_11,Medicine lake low water,79_35G_11,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.783323599,0.72722631,,,0.794000565,0.883004834,6,PT Run,79_35G_12,Medicine lake low water,79_35G_12,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.78389916,0.758265487,,,0.775821282,0.857748007,6,PT Run,82_62_3,Medicine lake low water,82_62_3,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.771977592,0.734939678,,,0.768645853,0.848611327,6,PT Run,82_62_4,Medicine lake low water,82_62_4,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.780195817,0.757819371,,,0.78179312,0.86540374,6,PT Run,82_66_3,Medicine lake low water,82_66_3,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,0.783523165,0.760217112,,,0.782626084,0.894963459,6,PT Run,82_66_5,Medicine lake low water,82_66_5,3 phase cotectics!!,
+MG,Medicine Lake ,1050,200,NNO ,NNO,1.5,NaN,NaN,NaN,NaN,0.768322473,0.822230381,6,PT Run,82_88_7,Medicine lake low water,82_88_7,3 phase cotectics!!,No olivine!
